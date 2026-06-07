@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "ZynexCraftS1.aternos.me",
+    "port": 27525,
+    "version": "1.20.4 (499)",
     "try-creative": false
   },
   "position": {
